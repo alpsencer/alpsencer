@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Cover](./assets/github-readme-back.png)](http://alpsencer.com)
+[![Cover](./assets/github-readme-back-rounded.png)](http://alpsencer.com)
 
 <!--
 **alpsencer/alpsencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
