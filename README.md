@@ -10,7 +10,7 @@ I am,
 
 ### Currently working on:
 - Computer vision-guided tracker autonomous drones
-- Real-time object detection and trackking
+- Real-time object detection and tracking
 - Automation with Python
 - Java programming
 
