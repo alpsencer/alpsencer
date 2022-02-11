@@ -6,7 +6,7 @@
 ## Hi there 👋
 I am,
 - 1st year **Computer Science** student at **Bilkent University** 👨‍💻
-- Co-founder of [Gokordu UAV](gokordu.tech) 🚁
+- Co-founder of [Gokordu UAV](https://gokordu.com) 🚁
 
 ### Currently working on:
 - Computer vision-guided tracker autonomous drones
