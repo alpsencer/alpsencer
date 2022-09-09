@@ -11,8 +11,7 @@ I am,
 ### Currently working on:
 - Computer vision-guided tracker autonomous drones
 - Real-time object detection and tracking
-- Automation with Python
-- Java programming
+- Python (Async applications)
 
 ### My interests:
 - Artificial Intelligence
