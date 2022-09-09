@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yavuzalpsencerozturk)
 ## Hi there 👋
 I am,
-- 1st year **Computer Science** student at **Bilkent University** 👨‍💻
+- 2nd year **Computer Science** student at **Bilkent University** 👨‍💻
 - Co-founder of [Gokordu UAV](https://gokordu.com) 🚁
 
 ### Currently working on:
