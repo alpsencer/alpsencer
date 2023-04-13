@@ -6,7 +6,7 @@
 ## Hi there 👋
 I am,
 - 2nd year **Computer Science** student at **Bilkent University** 👨‍💻
-- Co-founder of [Gokordu UAV](https://gokordu.com) 🚁
+- Co-founder of [Gokordu UAV](https://alpsencer.com/projects/teknofest/) 🚁
 
 ### Currently working on:
 - Computer vision-guided tracker autonomous drones
