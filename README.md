@@ -6,22 +6,26 @@
 ## Hi there 👋
 I am,
 - 2nd year **Computer Science** student at **Bilkent University** 👨‍💻
-- Co-founder of [Gokordu UAV](https://alpsencer.com/projects/teknofest/) 🚁
+- Software Developer Intern at TUBITAK BILGEM
+- Co-founder of [Syntex UAV](https://alpsencer.com/projects/teknofest/) 🚁
 
 ### Currently working on:
-- Computer vision-guided tracker autonomous drones
-- Real-time object detection and tracking
-- Python (Async applications)
+- Full stack web development
+- Deep learning
+- Generative AI
+- Natural language processing
+- LLMs
 
 ### My interests:
+  #### Technical:
 - Artificial Intelligence
 - Machine Learning
-- Quantum Computing
 - Computer Vision
+- Linguistic and Natural Language processing
+  #### Non-technical:
 - Personal Knowledge Management Systems
 - Science Fiction
 - Philosophy
-- Linguistic and Natural Language processing
 - Robotics
 
 How to reach me:
