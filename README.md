@@ -6,7 +6,6 @@
 ## Hi there 👋
 I am,
 - 2nd year **Computer Science** student at **Bilkent University** 👨‍💻
-- Software Developer Intern at TUBITAK BILGEM
 - Co-founder of [Syntex UAV](https://alpsencer.com/projects/teknofest/) 🚁
 
 ### Currently working on:
