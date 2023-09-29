@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yavuzalpsencerozturk)
 ## Hi there 👋
 I am,
-- 2nd year **Computer Science** student at **Bilkent University** 👨‍💻
+- 3nd year **Computer Science** student at **Bilkent University** 👨‍💻
 - Co-founder of [Syntex UAV](https://alpsencer.com/projects/teknofest/) 🚁
 
 ### Currently working on:
