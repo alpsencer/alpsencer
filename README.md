@@ -9,18 +9,15 @@ I am,
 - Co-founder of [Syntex UAV](https://alpsencer.com/projects/teknofest/) 🚁
 
 ### Currently working on:
-- Full stack web development
-- Deep learning
-- Generative AI
 - Natural language processing
-- LLMs
+- Generative AI
 
 ### My interests:
   #### Technical:
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
+- Artificial Intelligence, DL
 - Linguistic and Natural Language processing
+- Computer Vision
+
   #### Non-technical:
 - Personal Knowledge Management Systems
 - Science Fiction
