@@ -7,9 +7,11 @@
 I am,
 - 3rd year **Computer Science** student at **Bilkent University** 👨‍💻
 - Software Engineer Intern at TÜBİTAK BİLGEM (The Scientific and Technological Research Council of Turkey) 🤖
-- Bilkent AI Society, Founding President
+- [Bilkent AI Society](ais.bilkent.edu.tr), Founding President
 
-Chat With My CV: https://chat.alpsencer.com 
+**Chat With My CV:** https://chat.alpsencer.com 
+
+**Personal Website:** https://alpsencer.com
 
 ### Currently working on:
 - Natural language processing
